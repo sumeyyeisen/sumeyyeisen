@@ -1,16 +1,26 @@
-## Hi there 👋
+# Sümeyye İsen
 
-<!--
-**sumeyyeisen/sumeyyeisen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yazılım Mühendisliği öğrencisiyim. Şu an Enoca Bilgi Teknolojileri'nde 
+SAP Commerce Cloud Developer olarak staj yapıyorum.
 
-Here are some ideas to get you started:
+Kurumsal e-ticaret sistemleri üzerinde çalışıyorum. Yapay zeka ve 
+makine öğrenmesi alanlarına da ilgi duyuyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Teknolojiler
+
+Java, Spring Boot, SAP Commerce Cloud (Hybris), SOLR, ImpEx, Groovy  
+Python, Flask, React Native, Expo, Firebase  
+MySQL, PostgreSQL  
+
+
+## Projeler
+
+- [fashion-recommender](https://github.com/sumeyyeisen/fashion-recommender) — 3 AI modülüyle kıyafet öneri ve manken görselleştirme sistemi
+- [sentiment-analysis](https://github.com/sumeyyeisen/sentiment-analysis) — Twitter verisi üzerinde NLP tabanlı duygu analizi
+- [e-commerce](https://github.com/sumeyyeisen/e-commerce) — Ürün, sepet, sipariş ve stok takibi içeren RESTful API
+
+
+## İletişim
+
+[LinkedIn](https://linkedin.com/in/sumeyye-isen) · sumeyyeisen@icloud.com
