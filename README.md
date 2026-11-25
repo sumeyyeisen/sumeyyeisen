@@ -1,25 +1,21 @@
 # Sümeyye İsen
 
-Yazılım Mühendisliği öğrencisiyim. Şu an Enoca Bilgi Teknolojileri'nde 
-SAP Commerce Cloud Developer olarak staj yapıyorum.
+Burdur Mehmet Akif Ersoy Üniversitesi Yazılım Mühendisliği mezunuyum (2026). Enoca Bilgi Teknolojileri'nde Java ve SAP Commerce Cloud stajlarında çalıştım.
 
-Kurumsal e-ticaret sistemleri üzerinde çalışıyorum. Yapay zeka ve 
-makine öğrenmesi alanlarına da ilgi duyuyorum.
-
+Kurumsal e-ticaret sistemleri ve backend servislerinin yanında, Python ve Gemini API ile yapay zekâ destekli uygulamalar geliştiriyorum.
 
 ## Teknolojiler
 
 Java, Spring Boot, SAP Commerce Cloud (Hybris), SOLR, ImpEx, Groovy  
-Python, Flask, React Native, Expo, Firebase  
-MySQL, PostgreSQL  
-
+Python, Flask, React, React Native, Expo, Firebase  
+MySQL, SQL Server
 
 ## Projeler
 
-- [fashion-recommender](https://github.com/sumeyyeisen/fashion-recommender) — 3 AI modülüyle kıyafet öneri ve manken görselleştirme sistemi
-- [sentiment-analysis](https://github.com/sumeyyeisen/sentiment-analysis) — Twitter verisi üzerinde NLP tabanlı duygu analizi
+- [fashion-recommender](https://github.com/sumeyyeisen/fashion-recommender) — 3 modüllü yapay zekâ tabanlı kıyafet öneri ve manken görselleştirme sistemi
 - [e-commerce](https://github.com/sumeyyeisen/e-commerce) — Ürün, sepet, sipariş ve stok takibi içeren RESTful API
-
+- [dedektif-oyunu](https://github.com/sumeyyeisen/dedektif-oyunu) — React Native ve Firebase ile mobil dedektif oyunu
+- [sentiment-analysis](https://github.com/sumeyyeisen/sentiment-analysis) — Twitter verisi üzerinde NLP tabanlı duygu analizi
 
 ## İletişim
 
